@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Orbit</title>
+    <link>https://github.com/keranm/orbit-release</link>
+    <description>Orbit update feed</description>
+    <language>en</language>
+    <item>
+      <title>Orbit 0.5.1-alpha</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.5.1-alpha</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>
+        https://github.com/keranm/orbit-release/releases/tag/v0.5.1-alpha
+      </sparkle:releaseNotesLink>
+      <pubDate>Mon, 25 May 2026 18:30:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keranm/orbit-release/releases/download/v0.5.1-alpha/Orbit.dmg"
+        sparkle:edSignature="9cBnCg4K1uKjUUAd6EuLILITfeTtnEzQky+MBTrvERzYhgnHkbTXzJGeckZ68PPqvfMjO1nfM6KZKHsjjJfPDQ=="
+        length="45923707"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
