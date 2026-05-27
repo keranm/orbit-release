@@ -9,7 +9,7 @@
     <language>en</language>
     <item>
       <title>Orbit 0.2.0-alpha</title>
-      <sparkle:version>3</sparkle:version>
+      <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>0.2.0-alpha</sparkle:shortVersionString>
       <description><![CDATA[
         <h3>What's new in 0.2.0-alpha</h3>
@@ -24,11 +24,11 @@
       <sparkle:releaseNotesLink>
         https://github.com/keranm/orbit-release/releases/tag/v0.2.0-alpha
       </sparkle:releaseNotesLink>
-      <pubDate>Wed, 28 May 2026 09:10:00 +0000</pubDate>
+      <pubDate>Wed, 28 May 2026 09:30:00 +0000</pubDate>
       <enclosure
         url="https://github.com/keranm/orbit-release/releases/download/v0.2.0-alpha/Orbit.dmg"
-        sparkle:edSignature="f5iBcxqiQWAbT+IODjosKjF1u1QM3CoJHM6h53im4cwMcb40Sx9eW68BPB02BfGRVhS9J2sm3rYxm1MVrQTABw=="
-        length="44799825"
+        sparkle:edSignature="iwagBysS1/0/VxGU2juPIFOgAUOuT4GLVHDC3J2JMV7Evl/WOFqniwGKIPth3RAdDbTtpwyEsb2vxHELEeKyCQ=="
+        length="44800811"
         type="application/octet-stream"/>
     </item>
     <item>
