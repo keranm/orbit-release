@@ -8,6 +8,20 @@
     <description>Orbit update feed</description>
     <language>en</language>
     <item>
+      <title>Orbit 0.1.0-alpha.3</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-alpha.3</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>
+        https://github.com/keranm/orbit-release/releases/tag/v0.1.0-alpha.3
+      </sparkle:releaseNotesLink>
+      <pubDate>Tue, 27 May 2026 08:30:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keranm/orbit-release/releases/download/v0.1.0-alpha.3/Orbit-0.1.0-alpha.3.dmg"
+        sparkle:edSignature="/8EDQKAoNwM2jy6JWPx4BW4oTcXuIbwVyQShf+gifDJNIBYw6DCuBdWIc3ya7wh3oyx9yAWR2X0plWle/3+JBA=="
+        length="44743555"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Orbit 0.1.0-alpha.2</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.1.0-alpha.2</sparkle:shortVersionString>
@@ -23,7 +37,7 @@
     </item>
     <item>
       <title>Orbit 0.5.1-alpha</title>
-      <sparkle:version>1</sparkle:version>
+      <sparkle:version>0</sparkle:version>
       <sparkle:shortVersionString>0.5.1-alpha</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>
         https://github.com/keranm/orbit-release/releases/tag/v0.5.1-alpha
