@@ -24,11 +24,11 @@
       <sparkle:releaseNotesLink>
         https://github.com/keranm/orbit-release/releases/tag/v0.2.0-alpha
       </sparkle:releaseNotesLink>
-      <pubDate>Wed, 28 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 May 2026 09:10:00 +0000</pubDate>
       <enclosure
         url="https://github.com/keranm/orbit-release/releases/download/v0.2.0-alpha/Orbit.dmg"
-        sparkle:edSignature="REPLACE_WITH_SIGNATURE_FROM_generate_appcast"
-        length="REPLACE_WITH_DMG_BYTE_SIZE"
+        sparkle:edSignature="f5iBcxqiQWAbT+IODjosKjF1u1QM3CoJHM6h53im4cwMcb40Sx9eW68BPB02BfGRVhS9J2sm3rYxm1MVrQTABw=="
+        length="44799825"
         type="application/octet-stream"/>
     </item>
     <item>
