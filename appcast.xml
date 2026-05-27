@@ -14,11 +14,11 @@
       <sparkle:releaseNotesLink>
         https://github.com/keranm/orbit-release/releases/tag/v0.1.0-alpha.3
       </sparkle:releaseNotesLink>
-      <pubDate>Tue, 27 May 2026 08:30:00 +0000</pubDate>
+      <pubDate>Wed, 28 May 2026 08:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/keranm/orbit-release/releases/download/v0.1.0-alpha.3/Orbit-0.1.0-alpha.3.dmg"
-        sparkle:edSignature="/8EDQKAoNwM2jy6JWPx4BW4oTcXuIbwVyQShf+gifDJNIBYw6DCuBdWIc3ya7wh3oyx9yAWR2X0plWle/3+JBA=="
-        length="44743555"
+        sparkle:edSignature="PDeLP6+c/u6QTCj/4Xv0D0r8Zpdf9NrbhK1YiAejDsXuXrGfUsj8jizVBSVUc5aSBSibAXpzKW0zWyjhXBmuAA=="
+        length="44735975"
         type="application/octet-stream"/>
     </item>
     <item>
