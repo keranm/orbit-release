@@ -8,6 +8,30 @@
     <description>Orbit update feed</description>
     <language>en</language>
     <item>
+      <title>Orbit 0.2.0-alpha</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0-alpha</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>What's new in 0.2.0-alpha</h3>
+        <ul>
+          <li><strong>Smoother mesh streaming</strong> — responses from the shared mesh now fade in token by token rather than appearing one word at a time.</li>
+          <li><strong>Clearer status colours</strong> — shared mesh indicator is now blue. Green = running locally, teal = your private mesh, blue = shared mesh.</li>
+          <li><strong>Faster Models tab</strong> — switching to Mesh Network no longer re-fetches models on every visit; the cached list appears instantly.</li>
+          <li><strong>Mesh speed notice</strong> — a new info banner in the Models tab explains that response speed naturally varies on the shared mesh.</li>
+          <li><strong>Architecture improvements</strong> — internal refactor for reliability and testability; no user-visible behaviour changes.</li>
+        </ul>
+      ]]></description>
+      <sparkle:releaseNotesLink>
+        https://github.com/keranm/orbit-release/releases/tag/v0.2.0-alpha
+      </sparkle:releaseNotesLink>
+      <pubDate>Wed, 28 May 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/keranm/orbit-release/releases/download/v0.2.0-alpha/Orbit.dmg"
+        sparkle:edSignature="REPLACE_WITH_SIGNATURE_FROM_generate_appcast"
+        length="REPLACE_WITH_DMG_BYTE_SIZE"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Orbit 0.1.0-alpha.3</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.1.0-alpha.3</sparkle:shortVersionString>
